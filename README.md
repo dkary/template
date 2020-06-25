@@ -1,6 +1,6 @@
-# Cookiecutter Unum EA Data Science
+# Cookiecutter Python Template
 
-A template folder/file structure for EA DST Python Analysis Projects. Adapted from (http://drivendata.github.io/cookiecutter-data-science/)
+A template folder/file structure for Python Analysis Projects. Adapted from [Cookiecutter Data Science](http://drivendata.github.io/cookiecutter-data-science/)
 
 ## Requirements
 
@@ -12,6 +12,6 @@ $ pip install cookiecutter
 
 ## Start a New Project
 
-To start a new project, open a python console in the directory and run:
+To start a new project, open a terminal window (e.g., Anaconda prompt) and run:
 
 `cookiecutter gh:dkary/template`
