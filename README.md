@@ -12,6 +12,8 @@ $ pip install cookiecutter
 
 ## Start a New Project
 
-To start a new project, open a terminal window (e.g., Anaconda prompt) and run:
+To start a new project, open a terminal window (e.g., Anaconda prompt), navigate to the project folder, and run:
 
 `cookiecutter gh:dkary/template`
+
+You'll be prompted to choose a folder name for the analysis. Press enter to select the default.
