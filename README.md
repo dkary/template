@@ -26,7 +26,7 @@ In the future you can just run the code below (because the 'template' will be ca
 
 ## Tweaking
 
-You can prevent the .gitkeep files from showing up in your folders by removing them from the cached cookie. Using Anaconda Prompt:
+You can prevent the .gitkeep files from showing up in your folders by removing them from the cached cookie (although it's a bit of a hack). Using Anaconda Prompt:
 
 ```
 C:\Users\username> cd .cookiecutters
