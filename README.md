@@ -10,19 +10,21 @@ You'll need to install the [Cookiecutter Python package](http://cookiecutter.rea
 > pip install cookiecutter
 ```
 
-## Initializing an Analysis
-
-Open Anaconda prompt, navigate to the project folder, and run the code below (You'll be prompted to choose a folder name for the analysis. Press enter to select the default.):
+Make a practice template by running the code below and pressing enter to select the default folder name:
 
 ```
 > cookiecutter gh:dkary/template
 ```
 
-In the future you can just run the code below (because the 'template' will be cached on your machine):
+## Initializing an Analysis
+
+Open Anaconda prompt, navigate to the project folder, and run:
 
 ```
 > cookiecutter template
 ```
+
+Note: You no longer need to point to the repository because 'template' will be cached on your machine after the initial setup.
 
 ## Tweaking
 
