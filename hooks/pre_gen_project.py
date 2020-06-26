@@ -3,7 +3,7 @@
 
 import os
 
-for root, dirs, files in os.walk('{{ cookiecutter.folder_name }}'):
+for root, dirs, files in os.walk(os.getcwd()):
     for currentFile in files:
         if currentFile == '.gitkeep':
             os.remove(os.path.join(root, currentFile))
