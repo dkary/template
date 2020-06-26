@@ -4,19 +4,21 @@
 
 ## Output
 
-[Description of output of the analysis]
+[Description of output of the analysis, and how it is used (or a pointer to this info if stored elsewhere)]
 
 ## Data
 
-[Description of data files used in the analysis (or a pointer to this information if stored in Excel, Word, etc.)]
+[Description of key data sources used in the analysis (or a pointer to this info if stored elsewhere)]
+
+## Src
+
+[Description of the source code procedure (if deemed useful)]
+
 
 ## SQL
 
 [Overview of SQL queries (if deemed useful)]
 
-## Src
-
-[Overview of the source code (if deemed useful)]
 
 ## References
 
