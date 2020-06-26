@@ -1,4 +1,4 @@
-# use a cookiecutter pre-generate hook to remove .gitkeep files in templates
+# use a cookiecutter hook to remove .gitkeep files in templates
 # https://cookiecutter.readthedocs.io/en/latest/advanced/hooks.html#example-conditional-files-directories
 
 import os
