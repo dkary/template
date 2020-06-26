@@ -14,11 +14,9 @@
 
 [Description of the source code procedure (if deemed useful)]
 
-
 ## SQL
 
 [Overview of SQL queries (if deemed useful)]
-
 
 ## References
 
