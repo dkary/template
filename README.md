@@ -32,8 +32,3 @@ You can prevent the .gitkeep files from showing up in your folders by removing t
 C:\Users\username> cd .cookiecutters
 C:\Users\username\.cookiecutters> DEL /S /Q *.gitkeep
 ```
-
-
-## Template Structure
-
-![](fig/description.png)
